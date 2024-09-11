@@ -9,6 +9,10 @@ A simple React app to search users by first or last name, with debounced input f
 - Displays user details (name, email, phone).
 - Shows loading state when fetching data.
 
+## Screenshots
+<img width="70%" alt="Screenshot 2024-09-12 at 12 40 23 AM" src="https://github.com/user-attachments/assets/1914635e-2e9f-4347-b225-b3a236f12473">
+<img width="70%" alt="Screenshot 2024-09-12 at 12 41 07 AM" src="https://github.com/user-attachments/assets/3ab4813e-2315-4623-b7f9-d540a46475d0">
+
 ## Installation
 
 1. Clone the repository:
